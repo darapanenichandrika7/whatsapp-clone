@@ -1,0 +1,19 @@
+# .gitignore
+.env
+.env.production
+.venv
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+*.log
+db/
+data/
+node_modules/
+dist/
+build/
+*.egg-info/
+.coverage
+htmlcov/
